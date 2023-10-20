@@ -3,7 +3,8 @@
 
 SNIP is a backend server for a URL shortener application. It's built using Express.js and Node.js, with MongoDB as the NoSQL database. Users can submit a title and URL to create short links. Hosted on Railway.
 
-[Snip frontend Repo ↗](https://github.com/aakashvani/snip.com)
+[Snip frontend Repo ↗](https://github.com/aakashvani/snip)
+
 
 ## Tech Stack
 
